@@ -6,5 +6,21 @@
     {
         "package": "stacbuildr",
         "url": "https://github.com/stevenpawley/stacbuildr"
+    },
+    {
+        "package": "stacserver",
+        "url": "https://github.com/stevenpawley/stacserver"
+    },
+    {
+        "package": "ABwaterwells",
+        "url": "https://github.com/stevenpawley/ABwaterwells"
+    },
+    {
+        "package": "usgsm2m",
+        "url": "https://github.com/stevenpawley/usgsm2m"
+    },
+    {
+        "package": "rgrass",
+        "url": "https://github.com/OSGeo/rgrass"
     }
 ]
