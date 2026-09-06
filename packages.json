@@ -8,10 +8,6 @@
         "url": "https://github.com/stevenpawley/stacbuildr"
     },
     {
-        "package": "stacserver",
-        "url": "https://github.com/stevenpawley/stacserver"
-    },
-    {
         "package": "ABwaterwells",
         "url": "https://github.com/stevenpawley/ABwaterwells"
     },
