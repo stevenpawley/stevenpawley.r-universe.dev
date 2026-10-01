@@ -18,9 +18,5 @@
     {
         "package": "usgsm2m",
         "url": "https://github.com/stevenpawley/usgsm2m"
-    },
-    {
-        "package": "rgrass",
-        "url": "https://github.com/OSGeo/rgrass"
     }
 ]
